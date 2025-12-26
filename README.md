@@ -29,5 +29,5 @@ I'm currently a B.Tech ECE student at **Tezpur University**
 
 
 ## 📫 Connect with Me
-[![GitHub]([https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&color=181717)](https://github.com/ANUBHAVSINGH30](https://github.com/ANUBHAVSINGH30))
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&color=0A66C2)](https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/singh--anubhav-/))
+[![GitHub](https://img.shields.io/badge/GitHub-ANUBHAVSINGH30-181717?logo=github)](https://github.com/ANUBHAVSINGH30)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anubhav_Singh-0A66C2?logo=linkedin)](https://www.linkedin.com/in/singh--anubhav-/)
