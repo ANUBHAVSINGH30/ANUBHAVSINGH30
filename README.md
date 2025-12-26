@@ -22,6 +22,9 @@ I'm currently a B.Tech ECE student at **Tezpur University**
 - Git & GitHub
 - VS Code
 
+**Tools**
+- MongoDB
+
 ---
 
 
