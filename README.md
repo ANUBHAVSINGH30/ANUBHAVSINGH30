@@ -81,7 +81,7 @@ learning: Backend Fundamentals &amp; RESTful APIs
 
 ## 📈 Activity Graph
 
-[![Anubhav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ANUBHAVSINGH30&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Anubhav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ANUBHAVSINGH30&theme=tokyo-night&hide_border=true)](https://github.com/ANUBHAVSINGH30/github-readme-activity-graph)
 
 ---
 
