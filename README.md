@@ -1,33 +1,117 @@
- # Hi there, 👋  I'm **Anubhav Singh**
+ <div align="center">
+  
+# 👋 Hi there, I'm **Anubhav Singh**
 
-I'm currently a B.Tech ECE student at **Tezpur University**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;ECE+Student+%40+Tezpur+University;Always+Learning+New+Things)](https://git.io/typing-svg)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/singh--anubhav-/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ANUBHAVSINGH30)
 
-## 🧠 About Me
-- 🎓 B.Tech (ECE) student at Tezpur University
-- 💡 Building real projects and learning full-stack development
-- 🚀 Interested in web development, clean code, and team workflows
-- 🌱 Currently exploring backend fundamentals and APIs
-
-## 🛠 Skills
-
-**Frontend**
-- HTML, CSS, JavaScript
-- React, Next.js
-
-**Styling**
-- Tailwind CSS
-
-**Tools**
-- Git & GitHub
-- VS Code
-
-**DataBase**
-- MongoDB
+</div>
 
 ---
 
+## 🚀 About Me
 
-## 📫 Connect with Me
-[![GitHub](https://img.shields.io/badge/GitHub-ANUBHAVSINGH30-181717?logo=github)](https://github.com/ANUBHAVSINGH30)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anubhav_Singh-0A66C2?logo=linkedin)](https://www.linkedin.com/in/singh--anubhav-/)
+```yaml
+name: Anubhav Singh
+located_in: Tezpur, Assam, India
+education: B.Tech (ECE) @ Tezpur University
+current_focus: Full-Stack Web Development
+interests: [Web Dev, Clean Code, Team Workflows, Backend APIs]
+learning: Backend Fundamentals &amp; RESTful APIs
+```
+
+- 🎓 Electronics & Communication Engineering student with a passion for software development
+- 💡 Building real-world projects to bridge theory and practice
+- 🌱 Currently exploring **backend development** and **API design**
+- 🚀 Love working on **full-stack applications** with modern technologies
+- 🤝 Open to collaborations and learning opportunities
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend & Database
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![Anubhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ANUBHAVSINGH30&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ANUBHAVSINGH30&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ANUBHAVSINGH30&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=ANUBHAVSINGH30&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+[![Anubhav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ANUBHAVSINGH30&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 💼 What I'm Working On
+
+- 🔨 Building full-stack web applications with **React** and **Next.js**
+- 🎯 Learning backend development with **Node.js** and **Express**
+- 📚 Exploring database design patterns with **MongoDB**
+- 🌐 Improving my knowledge of **RESTful APIs** and **authentication**
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+I'm always interested in connecting with fellow developers and working on interesting projects!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/singh--anubhav-/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ANUBHAVSINGH30)
+
+---
+
+### 💭 Quote of the Day
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=ANUBHAVSINGH30&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+
+**Thanks for visiting! ⭐ Feel free to star some repositories if you find them interesting!**
+
+</div>
