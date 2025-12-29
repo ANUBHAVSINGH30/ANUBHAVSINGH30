@@ -11,7 +11,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 ```yaml
 name: Anubhav Singh
@@ -22,11 +22,11 @@ interests: [Web Dev, Clean Code, Team Workflows, Backend APIs]
 learning: Backend Fundamentals &amp; RESTful APIs
 ```
 
-- 🎓 Electronics & Communication Engineering student with a passion for software development
-- 💡 Building real-world projects to bridge theory and practice
-- 🌱 Currently exploring **backend development** and **API design**
-- 🚀 Love working on **full-stack applications** with modern technologies
-- 🤝 Open to collaborations and learning opportunities
+-  Electronics & Communication Engineering student with a passion for software development
+-  Building real-world projects to bridge theory and practice
+-  Currently exploring **backend development** and **API design**
+-  Love working on **full-stack applications** with modern technologies
+-  Open to collaborations and learning opportunities
 
 ---
 
@@ -85,12 +85,12 @@ learning: Backend Fundamentals &amp; RESTful APIs
 
 ---
 
-## 💼 What I'm Working On
+##  What I'm Working On
 
-- 🔨 Building full-stack web applications with **React** and **Next.js**
-- 🎯 Learning backend development with **Node.js** and **Express**
-- 📚 Exploring database design patterns with **MongoDB**
-- 🌐 Improving my knowledge of **RESTful APIs** and **authentication**
+-  Building full-stack web applications with **React** and **Next.js**
+-  Learning backend development with **Node.js** and **Express**
+-  Exploring database design patterns with **MongoDB**
+-  Improving my knowledge of **RESTful APIs** and **authentication**
 
 ---
 
