@@ -77,7 +77,7 @@ learning: Backend Fundamentals &amp; RESTful APIs
 ##  What I'm Working On
 
 -  Building full-stack web applications with **React** and **Next.js**
--  Learning backend development with **Node.js** and **Express**
+-  Learning backend development with **Node.js** and  **Express**
 -  Exploring database design patterns with **MongoDB**
 -  Improving my knowledge of **RESTful APIs** and **authentication**
 
